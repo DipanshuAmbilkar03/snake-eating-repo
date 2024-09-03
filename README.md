@@ -4,12 +4,12 @@ Follow these steps to set up the snake eating animation on your GitHub profile:
 
 1. **Add the `snake.yml` file:**
    - Create a file named `snake.yml` in the `.github/workflows/` directory of your repository.
-   - Add the provided content to the `snake.yml` file.
+   - Add the provided content to your `snake.yml` file.
    - Make sure to replace `username` with your GitHub username.
 
 2. **Before running the workflow:**
    - Go to your repository's settings and give **Read and write** permissions to the workflow.
-   - **Require approval for all outside collaborators** to ensure security.
+   - **Require approval for all outside collaborators** to ensure security (Not mandatory).
 
 3. **Run the workflow:**
    - Navigate to the **Actions** tab in your GitHub repository.
